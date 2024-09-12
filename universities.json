@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Berlin",
+        "location": {
+            "country": "Germany",
+            "state": "Baden-Wurttemberg",
+            "city": "Stuttgart"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": "https://www.facebook.com/Universitaet.Stuttgart",
+            "twitter": "https://twitter.com/Uni_Stuttgart",
+            "instagram": "https://www.instagram.com/unistuttgart",
+            "officialWebsite": "https://www.4icu.org/de/berlin/",
+            "linkedin": "https://www.linkedin.com/school/universit%C3%A4t-stuttgart/",
+            "youtube": "https://www.youtube.com/@uni_stuttgart"
+        }
+    },
+    {
+        "name": "Bremen",
+        "location": {
+            "country": "Germany",
+            "state": "Baden-Wurttemberg",
+            "city": "Stuttgart"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": "https://www.facebook.com/Universitaet.Stuttgart",
+            "twitter": "https://twitter.com/Uni_Stuttgart",
+            "instagram": "https://www.instagram.com/unistuttgart",
+            "officialWebsite": "https://www.4icu.org/de/bremen/",
+            "linkedin": "https://www.linkedin.com/school/universit%C3%A4t-stuttgart/",
+            "youtube": "https://www.youtube.com/@uni_stuttgart"
+        }
+    },
+    {
+        "name": "Hesse",
+        "location": {
+            "country": "Germany",
+            "state": "Baden-Wurttemberg",
+            "city": "Stuttgart"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": "https://www.facebook.com/Universitaet.Stuttgart",
+            "twitter": "https://twitter.com/Uni_Stuttgart",
+            "instagram": "https://www.instagram.com/unistuttgart",
+            "officialWebsite": "https://www.4icu.org/de/hesse/",
+            "linkedin": "https://www.linkedin.com/school/universit%C3%A4t-stuttgart/",
+            "youtube": "https://www.youtube.com/@uni_stuttgart"
+        }
+    },
+    {
+        "name": "Mecklenburg-Vorpommern",
+        "location": {
+            "country": "Germany",
+            "state": "Baden-Wurttemberg",
+            "city": "Stuttgart"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": "https://www.facebook.com/Universitaet.Stuttgart",
+            "twitter": "https://twitter.com/Uni_Stuttgart",
+            "instagram": "https://www.instagram.com/unistuttgart",
+            "officialWebsite": "https://www.4icu.org/de/mecklenburg-vorpommern/",
+            "linkedin": "https://www.linkedin.com/school/universit%C3%A4t-stuttgart/",
+            "youtube": "https://www.youtube.com/@uni_stuttgart"
+        }
+    },
+    {
+        "name": "Rhineland-Palatinate",
+        "location": {
+            "country": "Germany",
+            "state": "Baden-Wurttemberg",
+            "city": "Stuttgart"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": "https://www.facebook.com/Universitaet.Stuttgart",
+            "twitter": "https://twitter.com/Uni_Stuttgart",
+            "instagram": "https://www.instagram.com/unistuttgart",
+            "officialWebsite": "https://www.4icu.org/de/rhineland-palatinate/",
+            "linkedin": "https://www.linkedin.com/school/universit%C3%A4t-stuttgart/",
+            "youtube": "https://www.youtube.com/@uni_stuttgart"
+        }
+    },
+    {
+        "name": "Saxony",
+        "location": {
+            "country": "Germany",
+            "state": "Baden-Wurttemberg",
+            "city": "Stuttgart"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": "https://www.facebook.com/Universitaet.Stuttgart",
+            "twitter": "https://twitter.com/Uni_Stuttgart",
+            "instagram": "https://www.instagram.com/unistuttgart",
+            "officialWebsite": "https://www.4icu.org/de/saxony/",
+            "linkedin": "https://www.linkedin.com/school/universit%C3%A4t-stuttgart/",
+            "youtube": "https://www.youtube.com/@uni_stuttgart"
+        }
+    },
+    {
+        "name": "Schleswig-Holstein",
+        "location": {
+            "country": "Germany",
+            "state": "Baden-Wurttemberg",
+            "city": "Stuttgart"
+        },
+        "logoSrc": null,
+        "type": "public",
+        "establishedYear": "1829",
+        "contact": {
+            "facebook": "https://www.facebook.com/Universitaet.Stuttgart",
+            "twitter": "https://twitter.com/Uni_Stuttgart",
+            "instagram": "https://www.instagram.com/unistuttgart",
+            "officialWebsite": "https://www.4icu.org/de/schleswig-holstein/",
+            "linkedin": "https://www.linkedin.com/school/universit%C3%A4t-stuttgart/",
+            "youtube": "https://www.youtube.com/@uni_stuttgart"
+        }
+    }
+]
